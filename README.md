@@ -38,6 +38,14 @@ The project demonstrated that improving preprocessing and binarization quality h
 ## Output
 The pipeline enhances degraded manuscript images and enables projection-based line segmentation for computational manuscript analysis.
 
+## Results
+
+### Input Manuscript
+![Input](manuscript.jpg)
+
+### Segmentation Output
+![Output](segmentation_output.png)
+
 ## Limitations
 - Segmentation accuracy depends on manuscript image quality.
 - Severe degradation and illumination variation may affect line detection.
